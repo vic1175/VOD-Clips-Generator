@@ -5,8 +5,8 @@ A lightweight, automated desktop utility built to bridge the gap between live st
 By leveraging the raw downloading power of `yt-dlp` and the fast media-cutting capabilities of `FFmpeg`, the app completely bypasses the need for manual screen recording or heavy, slow video-editing software.
 
 <p align="center">
-  <a href="[YOUR_YOUTUBE_VIDEO_URL_HERE](https://www.youtube.com/watch?v=jLl3ttCs1e0)">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" alt="Watch the video" width="600">
+  <a href="https://www.youtube.com/watch?v=jLl3ttCs1e0">
+    <img src="https://img.youtube.com/vi/jLl3ttCs1e0/maxresdefault.jpg" alt="How to Clip 8-Hour Streams Instantly" width="600">
   </a>
 </p>
 ---
